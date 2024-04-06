@@ -1,14 +1,14 @@
 <linkage2>
-	<program zoom="0.269330" xoffset="-810" yoffset="1659" scalefactor="1.000000" units="Millimeters" backgroundtransparency="0.000000" xgrid="" ygrid=""/>
-	<connector id="0" selected="false" layer="16" x="-2695.899125" y="-5916.933717" anchor="true" color="16711680" usercolor="false"/>
-	<connector id="10" selected="false" layer="16" x="-2930.057570" y="-6164.965035" anchor="true" color="12615935" usercolor="false"/>
-	<connector id="11" selected="false" layer="16" x="-2540.269799" y="-6111.551281" anchor="true" input="true" rpm="15.000000" color="2146336" usercolor="false"/>
-	<connector id="12" selected="false" layer="16" x="-3056.523157" y="-5502.980746" color="223719" usercolor="false"/>
-	<connector id="13" selected="false" layer="16" x="-3647.118446" y="-5824.687858" color="13123648" usercolor="false"/>
-	<connector id="14" selected="false" layer="16" x="-3507.393751" y="-5825.106856" color="4243584" usercolor="false"/>
-	<connector id="15" selected="false" layer="16" x="-3779.527559" y="-6712.954961" draw="true" color="8421440" usercolor="false"/>
-	<connector id="1" selected="false" layer="16" x="-2635.619906" y="-6111.970394" draw="true" color="12632064" usercolor="false"/>
-	<connector id="2" selected="false" layer="16" x="-3023.622047" y="-5970.248409" color="6579300" usercolor="false"/>
+	<program zoom="0.159367" xoffset="-412" yoffset="942" scalefactor="1.000000" units="Millimeters" backgroundtransparency="0.000000" xgrid="" ygrid=""/>
+	<connector id="0" selected="false" layer="16" x="-2645.669291" y="-5669.291339" anchor="true" color="16711680" usercolor="false"/>
+	<connector id="10" selected="false" layer="16" x="-2888.626792" y="-6117.272022" anchor="true" color="12615935" usercolor="false"/>
+	<connector id="11" selected="false" layer="16" x="-2534.319980" y="-6111.970394" anchor="true" input="true" rpm="15.000000" color="2146336" usercolor="false"/>
+	<connector id="12" selected="false" layer="16" x="-2974.364904" y="-5102.362205" color="223719" usercolor="false"/>
+	<connector id="13" selected="false" layer="16" x="-3541.294037" y="-5744.349767" color="13123648" usercolor="false"/>
+	<connector id="14" selected="false" layer="16" x="-3401.574803" y="-5745.654185" color="4243584" usercolor="false"/>
+	<connector id="15" selected="false" layer="16" x="-3780.048637" y="-6701.855660" draw="true" color="8421440" usercolor="false"/>
+	<connector id="1" selected="false" layer="16" x="-2635.481078" y="-6117.272022" draw="true" color="12632064" usercolor="false"/>
+	<connector id="2" selected="false" layer="16" x="-2974.364904" y="-5934.725077" color="6579300" usercolor="false"/>
 	<Link id="7" selected="false" layer="16" linesize="1" solid="true" shapetype="hull" color="11272364" usercolor="false">
 		<connector id="12"/>
 		<connector id="13"/>
